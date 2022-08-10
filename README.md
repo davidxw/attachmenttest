@@ -1,4 +1,4 @@
-# attachmenttest
+# Graph API Message Attachment Test
 Demonstrate using Graph API to read mail messages and attachments. To run this demo:
 
 * Create an application in AAD, no specific permissions required
